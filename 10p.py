@@ -1,4 +1,4 @@
-import panda as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 mtr = pd.read_csv("energia.csv")
 anos = mtr[0:10]
